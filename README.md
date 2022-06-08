@@ -1,2 +1,2 @@
 # ProjetoFinal
- Projeto Android criado por mim para inserir no meu portifólio
+ Projeto Android para ser inserir no meu portifólio

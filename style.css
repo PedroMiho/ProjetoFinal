@@ -67,6 +67,7 @@ header > h1 {
 }
 
 header > p {
+    font-family: var(--fontes);
     color: white;
     font-size: 1.2em;
     color: white;
@@ -74,7 +75,7 @@ header > p {
     padding: 0px 10px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.342);
-    margin-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 nav {
